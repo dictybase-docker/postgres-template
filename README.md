@@ -13,3 +13,4 @@ image.
   - __`Dockerfile.template` --> `Dockerfile`__. Change the base image if needed.
   - Modify configuration files(.conf) as necessary.
   - Finally create the docker image.
+  - To push it to a remote repository, make sure to change the url.
